@@ -304,6 +304,8 @@ Ce TP permet de maîtriser :
 - interactions utilisateur simulées
 
 ---
+<img width="491" height="445" alt="2" src="https://github.com/user-attachments/assets/55d2103b-d18e-42d9-9bee-a6fe6297e093" />
+<img width="959" height="473" alt="1" src="https://github.com/user-attachments/assets/56ad09e5-8873-447e-94c4-7555a2cd7a5b" />
 
 # Fin du TP
 
